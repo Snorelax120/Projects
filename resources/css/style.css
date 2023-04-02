@@ -220,7 +220,7 @@ ul.todo#completed:before {
 }
 
 ul.todo#todo:empty:after {
-  content: 'Todays a slow day? :s';
+  content: 'Today's a slow day? :s';
   margin: 15px 0 0 0;
 }
 
